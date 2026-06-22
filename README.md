@@ -1,3 +1,5 @@
+![Cowork-Memory](cowork-memory_title.png)
+
 # Cowork-Memory
 
 Claude Cowork 세션 간 지식을 누적·공유하기 위한 경량 위키 시스템입니다.
